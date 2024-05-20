@@ -4,7 +4,22 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: React / Vue.js / JavaScript (JS) / HTML / CSS / Redux / Context API / React Router / CSS-in-JS / Webpack / npm / yarn / Git / Fetch / Axios
+Skills: 
+* React
+* Vue.js
+* JavaScript (JS)
+* HTML
+* CSS
+* Redux
+* Context API
+* React Router
+* CSS-in-JS
+* Webpack
+* npm
+* yarn
+* Git
+* Fetch
+* Axios
 
 - 🔭 I’m currently working on this page. 
 
