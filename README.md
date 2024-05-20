@@ -1,12 +1,17 @@
-### Hi there 👋, my name is Abdelrahman Magdy
-#### I work in frontend (react.js)
-![I work in frontend (react.js)](https://www.facebook.com/photo/?fbid=1928491494166792&set=a.132256333790326)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/GOA2CiJWgAAB66b?format=jpg&name=small)
 
-Abdulrahman Magdy is a 25-year-old Front-End Developer. He has expertise in developing and designing websites using technologies such as HTML, CSS, and JavaScript, along with popular frameworks like React and Vue.js. His work focuses on creating exceptional and user-friendly experiences, with an emphasis on designing interactive and appealing interfaces. In addition to his technical skills, Abdulrahman excels in teamwork and problem-solving, making him a valuable member of any web development team.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: React / Vue.js / JavaScript (JS) / HTML / CSS / Redux / Context API / React Router / Styled-Components / CSS-in-JS / Webpack / npm / yarn / Jest /  Git / Fetch / Axios
+Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
