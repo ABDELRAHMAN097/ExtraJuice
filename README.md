@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Abdelrahman Magdy
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/GOA2CiJWgAAB66b?format=jpg&name=small)
 
