@@ -2,7 +2,7 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/GOA2CiJWgAAB66b?format=jpg&name=small)
 
-Abdulrahman Magdi, a specialized Front-End Developer, with experience in developing and designing user interfaces for web applications and websites. I possess strong skills in HTML, CSS, and JavaScript, along with proficiency in frameworks such as React and Angular. I have contributed to several successful projects and have excelled in transforming designs into smooth and engaging user experiences.
+Abdulrahman Magdi, a specialized Front-End Developer, with experience in developing and designing user interfaces for web applications and websites. I possess strong skills in HTML, CSS, and JavaScript, along with proficiency in framework React. I have contributed to several successful projects and have excelled in transforming designs into smooth and engaging user experiences.
 
 Skills: 
 * React
